@@ -1,0 +1,2 @@
+- Attempted configuration of github integration. Needs manual configuration and auth.
+- Cloned test repository and made a local commit
